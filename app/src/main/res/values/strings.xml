@@ -1,0 +1,3 @@
+<resources>
+    <string name="item_details_format">%s - %s</string>
+</resources>
